@@ -1,0 +1,13 @@
+C:\Users\user\AnimalFeedingProject\obj\Debug\netcoreapp3.1\AnimalFeedingProject.csprojAssemblyReference.cache
+C:\Users\user\AnimalFeedingProject\obj\Debug\netcoreapp3.1\AnimalFeedingProject.AssemblyInfoInputs.cache
+C:\Users\user\AnimalFeedingProject\obj\Debug\netcoreapp3.1\AnimalFeedingProject.AssemblyInfo.cs
+C:\Users\user\AnimalFeedingProject\obj\Debug\netcoreapp3.1\AnimalFeedingProject.csproj.CoreCompileInputs.cache
+C:\Users\user\AnimalFeedingProject\bin\Debug\netcoreapp3.1\AnimalFeedingProject.exe
+C:\Users\user\AnimalFeedingProject\bin\Debug\netcoreapp3.1\AnimalFeedingProject.deps.json
+C:\Users\user\AnimalFeedingProject\bin\Debug\netcoreapp3.1\AnimalFeedingProject.runtimeconfig.json
+C:\Users\user\AnimalFeedingProject\bin\Debug\netcoreapp3.1\AnimalFeedingProject.runtimeconfig.dev.json
+C:\Users\user\AnimalFeedingProject\bin\Debug\netcoreapp3.1\AnimalFeedingProject.dll
+C:\Users\user\AnimalFeedingProject\bin\Debug\netcoreapp3.1\AnimalFeedingProject.pdb
+C:\Users\user\AnimalFeedingProject\obj\Debug\netcoreapp3.1\AnimalFeedingProject.dll
+C:\Users\user\AnimalFeedingProject\obj\Debug\netcoreapp3.1\AnimalFeedingProject.pdb
+C:\Users\user\AnimalFeedingProject\obj\Debug\netcoreapp3.1\AnimalFeedingProject.genruntimeconfig.cache
