@@ -2,15 +2,14 @@ using System;
 
 namespace AnimalFeedingProject
 {
-    public class Monkey : IAnimal
+    public class Monkey : Animal
     {
-        public string Name { get; private set; }
 
-        public Monkey(string name){
+        public Monkey(string name): base(name){
             Name = name;
         }
 
-        public void Feed()
+        public override void Feed()
         {
             Console.WriteLine($"{Name} the monkey has been fed a banana.");
         }

@@ -2,15 +2,13 @@ using System;
 
 namespace AnimalFeedingProject
 {
-    public class Giraffe : IAnimal
+    public class Giraffe : Animal
     {
-        public string Name { get; private set; }
-
-        public Giraffe(string name){
+        public Giraffe(string name): base(name){
             Name = name;
         }
 
-        public void Feed()
+        public override void Feed()
         {
             Console.WriteLine($"{Name} the giraffe has been some acacia leaves.");
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\AnimalFeedingProject\\AnimalFeedingProject.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\AnimalFeedingProject\\AnimalFeedingProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\AnimalFeedingProject\\AnimalFeedingProject.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\AnimalFeedingProject\\AnimalFeedingProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\AnimalFeedingProject\\AnimalFeedingProject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\AnimalFeedingProject\\AnimalFeedingProject.csproj",
         "projectName": "AnimalFeedingProject",
-        "projectPath": "C:\\Users\\user\\AnimalFeedingProject\\AnimalFeedingProject.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\AnimalFeedingProject\\AnimalFeedingProject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\AnimalFeedingProject\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\AnimalFeedingProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
